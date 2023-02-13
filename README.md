@@ -1,6 +1,14 @@
 In the client directory, you can run:
 
 ```
+`brew install yarn`
+```
+
+```
+yarn install
+```
+
+```
 `yarn start`
 ```
 
